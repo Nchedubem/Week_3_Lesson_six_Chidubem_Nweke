@@ -1,4 +1,4 @@
-var person = {
+let myPerson = {
     name: "Chidinma Onuoha",
     age: 45,
     occupation: "Software Engineer"
@@ -8,4 +8,4 @@ var person = {
   delete person.age;
   
   // Log the object to the console to see the updated properties
-  console.log(person);
+  console.log(myPerson);

@@ -1,4 +1,4 @@
-var person = {
+let myPerson = {
     name: "Chidubem Nweke",
     age: 25,
     occupation: "Web Engineer"

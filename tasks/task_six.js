@@ -1,16 +1,16 @@
 //Missing parentheses
-if (x === 5) {
-  console.log("x is equal to 5");
+if (z === 5) {
+  console.log("z is equal to 5");
 }
 
 
 //Missing semicolon
-const message = "Hello, world";
-console.log(message)
+const messenger = "Hello, world";
+console.log(messenger)
 
 
 //Incorrect closing brace placement
-function sayHello() {
+function hearHello() {
     console.log("Hello!");
     console.log("Goodbye!");
 }
